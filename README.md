@@ -1,6 +1,3 @@
-Project Description
-
-In this project, we aim to predict personal medical charges based on individuals' demographic and lifestyle data. The dataset includes various features such as age, sex, BMI, number of children, smoking status, and region of residence. By analyzing these factors, we develop a regression model to estimate the medical costs incurred by individuals.
 
 Project Objectives
 
